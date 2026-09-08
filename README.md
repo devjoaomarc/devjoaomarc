@@ -8,7 +8,7 @@ Desenvolvedor Fullstack com foco em **JavaScript e TypeScript**.
 
 ## 📂 Projetos
 
-| Projeto            | Descrição                                                                            |
-| ------------------ | ------------------------------------------------------------------------------------ |
-| `music-booker`     | Plataforma de agendamento para escolas de música — **concluído**                     |
-| `hospital-checkin` | Sistema de check-in e gerenciamento de filas para hospitais — **em desenvolvimento** |
+| Projeto        | Descrição                                                                         | Status                |
+| -------------- | --------------------------------------------------------------------------------- | --------------------- |
+| `music-booker` | Plataforma de agendamento para escolas de música                                  | ✅ Concluído          |
+| `patient-flow` | Plataforma para gestão inteligente do fluxo de pacientes em instituições de saúde | 🚧 Em desenvolvimento |
